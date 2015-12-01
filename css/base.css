@@ -1,0 +1,15 @@
+html,
+body {
+    min-height: 400px;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background: url(../img/mountain.png) bottom;
+    background-color: #9cb8d3;
+    background-repeat: repeat-x;
+}
+
+canvas, button {
+    position: absolute;
+}
